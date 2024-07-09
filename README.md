@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋  I'm Thomas
 
 - 🔭 I’m currently working on making my own website personal website in Next.js deploying it with Vercel!
 - 🌱 I’m currently work in a startup called Yobr where i'm buidling a website with Nextjs and Tailwind css. Early this summer I worked at omegapoint with .NET 8 and blazor. 
