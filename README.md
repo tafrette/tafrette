@@ -1,6 +1,8 @@
 ## Hi there 👋  I'm Thomas
 
-- 🔭 I’m currently learning how to make my own personal website in Next.js deploying it with Vercel!
-- 🌱 I’m currently working in a startup called Yobr where i'm buidling a website with Nextjs, Tailwind css and LLM. Earlier this summer I worked at omegapoint with .NET 8 and blazor. 
-- 🎓 Starting my 5th year on computer science at Norwegian University of Science and Technology. Where i will be writing my master thesis about detecting social media risk users, with a focus on the spread of far-right extremism.
-- 🔗 [LinkedIn](https://www.linkedin.com/in/thomasfrette/)
+- 🔭 **Learning**: Currently exploring Next.js to build my personal website, deployed with Vercel.
+- 🌱 **Working**: Building a website at the startup Yobr using Next.js, Tailwind CSS, and LLM. Previously this summer, I worked at Omegapoint with .NET 8 and Blazor making an social application for the employees of the company. 
+- 🎓 **Studying**: Entering my 5th year in Computer Science at the Norwegian University of Science and Technology. My master’s thesis will focus on detecting social media risk users, with an emphasis on the spread of far-right extremism.
+- 🔗 **Connect**:
+    - [LinkedIn](https://www.linkedin.com/in/thomasfrette/)
+    - [Website](https://www.thomasfrette.com)
