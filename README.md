@@ -5,7 +5,7 @@
 - 🎓 **Studying**: Entering my 5th year in Computer Science at the Norwegian University of Science and Technology. My master’s thesis will focus on detecting social media risk users, with an emphasis on the spread of far-right extremism.
 - 🔗 **Connect**:
     - [LinkedIn](https://www.linkedin.com/in/thomasfrette/)
-    - [Website](https://www.thomasfrette.com)  (Under construction)
+    - [Website](https://www.thomasfrette.com)  (Under construction 😉)
       
 ## Personal favorite technologies
 <a href="https://nextjs.org/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nextjs-dark.svg" width="50"></a>
